@@ -1,0 +1,11 @@
+session :- any process or task 
+
+session_start(); 
+session_id(); // unique value andsame value till session is active 
+session_destroy(); // end all session inforamtion 
+$_SESSION[] ; session varaible to transfer any data to multiple pages till session is active 
+
+login 
+check 
+admin 
+end   
